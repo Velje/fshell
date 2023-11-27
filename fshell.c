@@ -19,7 +19,7 @@
         }\
     } while (0)
 
-const unsigned MAX_CHARACTERS = 50;
+const uint32_t MAX_CHARACTERS = 50;
 
 void exit_procedure(char* mem_buffer) {
     puts("Exiting...Goodbye!");
